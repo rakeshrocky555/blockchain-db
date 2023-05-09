@@ -2,7 +2,10 @@
   "name": "db_project",
   "version": "1.0.0",
   "description": "",
-  "main": "database.js",
+  "engines": {
+    "npm": "9.5.0",
+    "node": "v18.15.0"
+  },
   "scripts": {
     "start": "node database.js"
   },
